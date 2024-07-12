@@ -10,7 +10,6 @@ I recently completed a demo project using Terraform, the powerful Infrastructure
 - **Resource Block:** Defines the AWS EC2 instance resource with attributes like AMI, instance type, key pair, and tags.
 
 ### `output.tf`
-    ![AWS Instance Created](path/to/your/image1.png)
 
 - **Output Block:** Captures and displays the public IP address of the created EC2 instance.
 
